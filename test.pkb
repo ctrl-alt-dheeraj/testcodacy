@@ -29,6 +29,7 @@ CREATE OR REPLACE PACKAGE BODY APPS.Cmg_Load_Ret_Pck AS
    NAME:       CMG_LOAD_RET_PCK
    PURPOSE:
 
+
    REVISIONS:
    Ver        Date        Author           Description
    ---------  ----------  ---------------  ------------------------------------
